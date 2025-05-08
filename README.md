@@ -18,7 +18,7 @@ INSTRUCTIONS:
    - Voting dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/voting-records/house-votes-84.data
      Save as: house-votes-84.data
 
-3. Run the script:
-    python3 -m venv .venv
-   source .venv/bin/activate
-   python submission.py
+3. Run the script:    
+    python3 -m venv .venv  
+    source .venv/bin/activate  
+    python submission.py
