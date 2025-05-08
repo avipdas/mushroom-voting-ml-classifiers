@@ -8,7 +8,7 @@ and reports accuracy and confusion matrices.
 
 INSTRUCTIONS:
 
-1. Install dependencies:
+1. Install dependencies:  
    pip install numpy pandas
 
 2. Download datasets:
